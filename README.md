@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Chheta</h1>
-<h3 align="center">Aspiring Software Engineer | ML & AI Enthusiast | Builder @ Heart</h3>
+<h3 align="center">Aspiring Software Engineer | ML & AI Enthusiast </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
